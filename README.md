@@ -1,3 +1,3 @@
 # code-editor
 
-A Collaborative code editor
+A collaborative code editor
